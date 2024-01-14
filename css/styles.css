@@ -90,3 +90,134 @@ a:active {
     margin-right:448px;
     padding:10px;
 }
+
+.shawarma  {
+    display:inline-block;
+    justify-content: flex-start;
+    margin-top: 20px;
+    margin-left:400px;
+}
+
+.fries {
+    display:inline-block;
+    margin-left:300px;
+}
+
+.shawarma img {
+    height:600px;
+    margin-top:0px;
+    border-radius:20px;
+}
+
+.fries img {
+    height:600px;
+    border-radius:20px;
+}
+
+.titles #hcs {
+    display:inline-flex;
+    margin-top:10px;
+    margin-left:480px;
+    color:white;
+    font-style: italic;
+}
+
+.titles #chff {
+    display: inline-flex;
+    margin-top:10px;
+    margin-left:490px;
+    color:white;
+    font-style: italic;
+}
+
+.burger {
+    display:inline-block;
+}
+
+.lasagna {
+    display:inline-block;
+}
+
+.burger img {
+    height: 600px;
+    margin-left:370px;
+    margin-top:10px;
+    border-radius:20px;
+}
+
+.lasagna img {
+    height:400px;
+    border-radius:20px;
+    margin-left:150px;
+    margin-bottom: 80px;
+}
+
+.names #jhh {
+    display:flex;
+    color:white;
+    font-style:italic;
+    margin-top:10px;
+    margin-left:480px;
+    margin-bottom:20px;
+}
+
+.names #ehl {
+    display:flex;
+    color:white;
+    font-style: italic;
+    margin-left:1250px;
+    margin-top: -80px;
+    margin-bottom:80px;
+
+}
+
+.imgshawarma img {
+    display:flex;
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:20px;
+    height:600px;
+}
+
+.ingrshawarma h2 {
+    display:flex;
+    background-color: #561010;
+    margin-top:10px;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+}
+
+.ingrshawarma ul li {
+    display:flex;
+    background-color: #561010;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+    font-weight:bold;
+    padding:10px;
+
+}
+
+.guideshawarma h2 {
+    display:flex;
+    background-color: #561010;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+    margin-top:20px;
+}
+
+.guideshawarma ol li {
+    display: flex;
+    background-color: #561010;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    padding:10px;
+    color: white;
+    font-weight: bold;
+}
