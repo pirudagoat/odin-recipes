@@ -221,3 +221,160 @@ a:active {
     color: white;
     font-weight: bold;
 }
+
+
+.imgfries img {
+    display:flex;
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:20px;
+    height:600px;
+}
+
+.ingrfries h2 {
+    display:flex;
+    background-color: #561010;
+    margin-top:10px;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+}
+
+.ingrfries ul li {
+    display:flex;
+    background-color: #561010;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+    font-weight:bold;
+    padding:10px;
+
+}
+
+.guidefries h2 {
+    display:flex;
+    background-color: #561010;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+    margin-top:20px;
+}
+
+.guidefries ol li {
+    display: flex;
+    background-color: #561010;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    padding:10px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+.imgburger img {
+    display:flex;
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:20px;
+    height:600px;
+}
+
+.ingrburger h2 {
+    display:flex;
+    background-color: #561010;
+    margin-top:10px;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+}
+
+.ingrburger ul li {
+    display:flex;
+    background-color: #561010;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+    font-weight:bold;
+    padding:10px;
+
+}
+
+.guideburger h2 {
+    display:flex;
+    background-color: #561010;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+    margin-top:20px;
+}
+
+.guideburger ol li {
+    display: flex;
+    background-color: #561010;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    padding:10px;
+    color: white;
+    font-weight: bold;
+}
+
+
+.imglasagna img {
+    display:flex;
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:20px;
+    height:600px;
+}
+
+.ingrlasagna h2 {
+    display:flex;
+    background-color: #561010;
+    margin-top:10px;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+}
+
+.ingrlasagna ul li {
+    display:flex;
+    background-color: #561010;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+    font-weight:bold;
+    padding:10px;
+
+}
+
+.guidelasagna h2 {
+    display:flex;
+    background-color: #561010;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    color: white;
+    margin-top:20px;
+}
+
+.guidelasagna ol li {
+    display: flex;
+    background-color: #561010;
+    justify-content: center;
+    margin-left:300px;
+    margin-right:300px;
+    padding:10px;
+    color: white;
+    font-weight: bold;
+}
